@@ -1,5 +1,5 @@
 +++
-authors = ["Matt McKenna"]
+authors = ["matt-mckenna"]
 date = 2019-12-30T03:00:00Z
 excerpt = "Beginnig the blogging journey"
 hero = "/images/2019.12.30_adam-solomon-WHUDOzd5IYU-unsplash.jpg"
