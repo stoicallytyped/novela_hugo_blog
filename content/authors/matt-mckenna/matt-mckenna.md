@@ -1,7 +1,7 @@
 +++
 avatar = "/images/2019.12.30_IMG_20191018_133058_102.jpg"
-bio = "Engineer of Android // Enthusiast of Kotlin // Excited to be creating and doing // Working at Comcast on @Xfinity Stream"
-featured = false
+bio = "Engineer of Android // Enthusiast of Kotlin // Excited to be creating and doing // Working at Comcast on Xfinity Stream"
+featured = true
 title = "Matt McKenna"
 [[social]]
 title = "Twitter"
