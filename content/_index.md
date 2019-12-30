@@ -1,5 +1,7 @@
 ---
 hero:
-  heading: Novela, the simplest way to start publishing with Hugo and Forestry.
-  maxWidthPX: 652
+  heading: Welcome to my blog :) I'll be focusing on Android, Kotlin, Privacy, Opensource,
+    and general tech musings
+  maxWidthPX: "652"
+
 ---
