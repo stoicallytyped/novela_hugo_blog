@@ -1,6 +1,6 @@
 ---
 hero:
-  heading: 'Notes on Android, Kotlin, Privacy, Opensource, '
+  heading: Android // Kotlin // Life // Travel // Fun
   maxWidthPX: "652"
 
 ---
