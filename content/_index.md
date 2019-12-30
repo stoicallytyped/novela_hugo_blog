@@ -1,7 +1,6 @@
 ---
 hero:
-  heading: Welcome to my blog :) I'll be focusing on Android, Kotlin, Privacy, Opensource,
-    and general tech musings
+  heading: 'Notes on Android, Kotlin, Privacy, Opensource, '
   maxWidthPX: "652"
 
 ---
