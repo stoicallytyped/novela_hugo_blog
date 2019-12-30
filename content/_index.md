@@ -1,6 +1,6 @@
 ---
 hero:
   heading: Android // Kotlin // Life // Travel // Fun
-  maxWidthPX: "652"
+  maxWidthPX: "65"
 
 ---
